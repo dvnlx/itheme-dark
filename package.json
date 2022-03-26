@@ -1,10 +1,20 @@
 {
-    "name": "itheme-dark",
-    "displayName": "iTheme Dark",
+    "name": "nova-dark",
+    "displayName": "NovaThe,e Dark",
     "description": "A modern theme.",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "iDev",
     "engines": {
         "vscode": "^1.65.0"
+    },
+    "keywords": [
+        "theme",
+        "nova",
+        "dark"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/iDevYT/itheme-dark.git"
     },
     "categories": [
         "Themes"
